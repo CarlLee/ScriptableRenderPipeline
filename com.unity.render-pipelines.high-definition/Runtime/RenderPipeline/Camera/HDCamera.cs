@@ -579,7 +579,6 @@ namespace UnityEngine.Experimental.Rendering.HDPipeline
                     viewConstants.prevViewProjMatrix *= Matrix4x4.Translate(cameraDisplacement); // Now prevViewProjMatrix correctly transforms this frame's camera-relative positionWS
                 }
             }
-            }
             else
             {
                 Matrix4x4 noTransViewMatrix = viewMatrix;
