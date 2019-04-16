@@ -234,6 +234,63 @@ EditorBuildSettings:
     path: Assets/GraphicTests/Scenes/4x_PostProcessing/4000_Exposure.unity
     guid: f32cdac65dd17f847b4cdaaa85bb990a
   - enabled: 1
+    path: Assets/GraphicTests/Scenes/4x_PostProcessing/4020_ChromaticAberration.unity
+    guid: 50a8dc518aa0c5e4fa5ae2ab2052bef4
+  - enabled: 1
+    path: Assets/GraphicTests/Scenes/4x_PostProcessing/4021_LensDistortion.unity
+    guid: 4484570f2b253984b89233ac50505811
+  - enabled: 1
+    path: Assets/GraphicTests/Scenes/4x_PostProcessing/4022_PaniniProjection.unity
+    guid: 3f7fbddefe91fe44ba7e0c199894d7d5
+  - enabled: 1
+    path: Assets/GraphicTests/Scenes/4x_PostProcessing/4023_VignetteClassic.unity
+    guid: 27e9bb11ee6914e44bf36ad688926b50
+  - enabled: 1
+    path: Assets/GraphicTests/Scenes/4x_PostProcessing/4024_VignetteMasked.unity
+    guid: 8489469fb12327945a9b847b88f77d9a
+  - enabled: 1
+    path: Assets/GraphicTests/Scenes/4x_PostProcessing/4025_FilmGrain.unity
+    guid: eac2e34f4627d8846a2df518b0e1cb9e
+  - enabled: 1
+    path: Assets/GraphicTests/Scenes/4x_PostProcessing/4026_Dithering.unity
+    guid: 49c136c02b1ebe640834a557f6baeef3
+  - enabled: 1
+    path: Assets/GraphicTests/Scenes/4x_PostProcessing/4027_GradingChannelMixer.unity
+    guid: e4d45947c95a67a41b393c5fe823891b
+  - enabled: 1
+    path: Assets/GraphicTests/Scenes/4x_PostProcessing/4028_GradingColorAdjustments.unity
+    guid: d37e4ef718eada94db246dbd8ef33205
+  - enabled: 1
+    path: Assets/GraphicTests/Scenes/4x_PostProcessing/4029_GradingColorCurves.unity
+    guid: c4dab86134e72034aac45c19df32ceb7
+  - enabled: 1
+    path: Assets/GraphicTests/Scenes/4x_PostProcessing/4030_GradingLiftGammaGain.unity
+    guid: 61718ed79ced0044fbfabd6ef7861a15
+  - enabled: 1
+    path: Assets/GraphicTests/Scenes/4x_PostProcessing/4031_GradingShadowsMidtonesHighlights.unity
+    guid: b8fbc679adfaed54ea1d4121a8564c81
+  - enabled: 1
+    path: Assets/GraphicTests/Scenes/4x_PostProcessing/4032_GradingSplitToning.unity
+    guid: 9e7523551cb924341a7dd2c98d773076
+  - enabled: 1
+    path: Assets/GraphicTests/Scenes/4x_PostProcessing/4033_GradingWhiteBalance.unity
+    guid: 507fe0226a0388c4898d134f829a4b28
+  - enabled: 1
+    path: Assets/GraphicTests/Scenes/4x_PostProcessing/4034_TonemappingNeutral.unity
+    guid: 6808e46b8d5946d478e963bd62642023
+  - enabled: 1
+    path: Assets/GraphicTests/Scenes/4x_PostProcessing/4035_TonemappingACES.unity
+    guid: e2f8343586d0e6a46b9c20d3f682de21
+  - enabled: 1
+    path: Assets/GraphicTests/Scenes/4x_PostProcessing/4036_TonemappingCustom.unity
+    guid: 2ffd6ed326c538247bdc54ab68fed4e2
+  - enabled: 1
+    path: Assets/GraphicTests/Scenes/4x_PostProcessing/4050_FXAA.unity
+    guid: 736a5167224854841be61166040606c6
+  - enabled: 0
+    path: Assets/GraphicTests/Scenes/4x_PostProcessing/4051_SMAA.unity
+    guid: d504aeb351e677b458d6c8980f63702b
+  - enabled: 1
     path: Assets/GraphicTests/Scenes/8x_ShaderGraph/8101_Opaque.unity
     guid: 3f9e911b4dbc9464e85add595c37cb89
   - enabled: 1
